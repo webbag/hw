@@ -1,0 +1,16 @@
+{
+    "name": "kris/hw",
+    "description": "testing project",
+    "type": "project",
+    "require": {
+        "symfony/symfony": "3.4.4"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "crifosu",
+            "email": "cromkris@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
