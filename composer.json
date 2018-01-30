@@ -3,12 +3,12 @@
     "description": "testing project",
     "type": "project",
     "require": {
-        "symfony/symfony": "3.4.4"
+        "symfony/symfony": "3.4.*"
     },
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "crifosu",
+            "name": "Krzysztof Kromolicki",
             "email": "cromkris@gmail.com"
         }
     ],
