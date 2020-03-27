@@ -2,9 +2,6 @@
     "name": "crifosu/hw",
     "description": "testing project",
     "type": "project",
-    "require": {
-        "symfony/symfony": "3.4.*"
-    },
     "license": "Apache-2.0",
     "authors": [
         {
